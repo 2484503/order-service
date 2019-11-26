@@ -23,5 +23,4 @@ public class OrderParam implements Serializable {
 
     @NotNull(message = "id不能为空")
     private String id;
-
 }
